@@ -12,6 +12,7 @@ router.post('/notes', (req, res) => {
 });
 
 router.delete('/notes/:id', (req, res) => {
+    // Update the 'notes' variable, setting it to the array returned from the deleteNoteFromDB util function:
     notes = (deleteNoteFromDB(req.params.id, notes));
     res.json(notes);
 })
