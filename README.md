@@ -24,10 +24,6 @@
 
 ![Screenshot of note-taker notes.html](./assets/images/Note-Taker-notes.png)
 
-## Video demo of the application's behavior:
-
-[Video of the application's behavior]()
-
 ## License
 
 > Naturally, I have not included a license for this simple exercise. :)
