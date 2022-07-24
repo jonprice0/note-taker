@@ -1,8 +1,14 @@
 {
   "notes": [
     {
-      "title": "Test Note",
-      "text": "Test text"
+      "id": 0.4313844884284024,
+      "title": "Test title 1",
+      "text": "Test text 1"
+    },
+    {
+      "id": 0.7057394283597034,
+      "title": "Test title 2",
+      "text": "Test text 2"
     }
   ]
 }
